@@ -18,6 +18,8 @@ Este proyecto es una aplicación web simple para organizar sorteos de Amigo Secr
 5.  Los resultados se mostrarán en la pantalla con una animación.
 6.  Haz clic en "Reiniciar" para comenzar un nuevo sorteo.
 
+[![Captura de pantalla del video](https://youtu.be/E9WELH1N9dA)
+
 ## Créditos
 
 * **Ícono de replay:**
@@ -32,3 +34,5 @@ Este proyecto es una aplicación web simple para organizar sorteos de Amigo Secr
 
 ## Autora
 Luz
+
+
